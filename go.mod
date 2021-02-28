@@ -1,4 +1,4 @@
-module github.com/Lunkov/lib-mc-world.git
+module github.com/Lunkov/lib-mc-world
 
 go 1.12
 
