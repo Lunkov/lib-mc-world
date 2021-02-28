@@ -1,0 +1,4 @@
+*.test.*
+vaisala/etc.tests
+yandex-weather/etc.tests
+open-weather-map/etc.tests
